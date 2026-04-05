@@ -1,64 +1,12 @@
-CHALUVARAJ N  
-📧 chaluvashetty23@gmail.com | 📞 +91 7899663405  
-
-----------------------------------------
-
-EDUCATION  
-Bachelor of Engineering (Information Science & Engineering)  
-City Engineering College, Bangalore | CGPA: 8.3  
-(Expected May 2026)  
-
-Pre-University (PUC)  
-APS PU College of Science & Commerce | CGPA: 6.3 | 2022  
-
-SSLC  
-Ever Bright High School | CGPA: 8.4 | 2020  
-
-----------------------------------------
-
-INTERNSHIPS  
-
-Full Stack Intern  
-Edunet Foundation | Dec 2024 – Jan 2025  
-• Developed a full-stack Spotify clone using MERN stack  
-• Implemented music streaming, playlists, and authentication  
-• Built responsive UI and improved user experience  
-
-AI Intern  
-Infosys Springboard | Nov 2025 – Jan 2026  
-• Built wildlife monitoring system using YOLO object detection  
-• Detected humans, animals, and weapons in real-time  
-• Implemented email alerts with image evidence using Python  
-
-----------------------------------------
-
-PROJECTS  
-
-Domain Expert Discovery Platform  
-• Developed a platform to identify domain experts using data aggregation  
-• Improved search accuracy with optimized data processing  
-
-Intelligent Poaching Detection System  
-• Built AI system to detect poaching activities using video analysis  
-• Integrated real-time alerts with captured evidence images  
-
-----------------------------------------
-
-CERTIFICATIONS  
-
-• Full Stack Internship – Edunet Foundation  
-• Python Full Stack Development – Dhee Coding Lab (Ongoing)  
-• Master Python Visually – Udemy  
-
-----------------------------------------
-
-SKILLS  
-
-• Team collaboration and communication  
-• Problem-solving and analytical thinking  
-
 
 # 💫 About Me:
+
+🎓 Final Year Information Science Engineering Student  
+💡 Strong in Python, Web Development & Problem Solving  
+🤖 AI Intern @ Infosys Springboard – Built Wildlife Monitoring System (YOLO)  
+🛠️ Developed Real-World AI & Full Stack Projects  
+🌱 Currently improving DSA & Backend Development  
+🎯 Actively seeking Entry-Level Software / Full Stack Roles  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Chaluva Shetty) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaluva_shetty_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ChaluvaRaj N) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Chaluva Shetty) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChaluvaRaj N) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Chaluvaraj N) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaluvashetty23@gmail.com) 
