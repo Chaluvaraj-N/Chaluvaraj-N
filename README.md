@@ -49,3 +49,18 @@
 
 # 🔝 Top Contributed Repo
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaluvaraj-N&theme=tokyo-night)
+
+---
+
+# 🚀 Featured Project
+
+## 🐾 Wildlife Monitoring System (YOLO)
+
+🔗 https://github.com/Chaluvaraj-N
+
+🔹 Developed during Infosys Springboard AI Internship
+🔹 Built using YOLO for real-time animal detection
+🔹 Detects animals from images/video input
+🔹 Focused on improving wildlife tracking and monitoring
+
+
