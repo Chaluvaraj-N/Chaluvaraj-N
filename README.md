@@ -58,9 +58,12 @@
 
 🔗 https://github.com/Chaluvaraj-N
 
-🔹 Developed during Infosys Springboard AI Internship
+🔹 Developed during Infosys Springboard AI  
+
 🔹 Built using YOLO for real-time animal detection
+
 🔹 Detects animals from images/video input
+
 🔹 Focused on improving wildlife tracking and monitoring
 
 
