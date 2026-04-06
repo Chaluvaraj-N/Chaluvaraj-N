@@ -9,7 +9,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Full stack ;Creative+%26+Innovative;Frontend+%3A+HTML%2FCSS;Backend+%3A+Python%2FC;MERN+Stack+Developer;AWS+%26+Azure+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+FastAPI+%7C+React;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Software+Engineer+Roles" />
 
 ---
 
