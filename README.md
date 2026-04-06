@@ -25,7 +25,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=Chaluvaraj-N&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaluvaraj-N&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chaluvaraj-N&layout=compact&theme=tokyonight)
 
 ---
 
