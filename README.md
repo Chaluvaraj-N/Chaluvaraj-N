@@ -9,6 +9,11 @@
 
 ---
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Creater;Creative+%26+Innovative;Frontend+%3A+HTML%2FCSS;Backend+%3A+Python%2FC;MERN+Stack+Developer;AWS+%26+Azure+Cloud" />
+
+---
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/chaluvashetty)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/chaluva_shetty_23)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaluvaraj-n)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=pinterest&logoColor=white)](https://pinterest.com/chaluvashetty)[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/chaluvaraj_n)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaluvashetty23@gmail.com)
 
