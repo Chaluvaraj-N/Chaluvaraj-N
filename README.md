@@ -21,11 +21,11 @@
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Chaluvaraj-N&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaluvaraj-N&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=Chaluvaraj-N&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaluvaraj-N&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaluvaraj-N&layout=compact&theme=tokyonight)
 
 ---
 
