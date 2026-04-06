@@ -48,4 +48,4 @@
 ---
 
 # 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Chaluvaraj-N&limit=5&theme=tokyonight)
+![Snake animation](https://github.com/Chaluvaraj-N/Chaluvaraj-N/blob/output/github-contribution-grid-snake.svg)
