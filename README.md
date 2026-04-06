@@ -21,11 +21,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Chaluvaraj-N\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Chaluvaraj-N&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Chaluvaraj-N\&theme=tokyonight\&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Chaluvaraj-N&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaluvaraj-N\&theme=tokyonight\&hide_border=true\&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaluvaraj-N&layout=compact&theme=tokyonight)
 
 ---
 
@@ -48,9 +48,4 @@
 ---
 
 # 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Chaluvaraj-N\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Chaluvaraj-N\&icon=5\&color=6)](https://visitcount.itsvg.in)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Chaluvaraj-N&limit=5&theme=tokyonight)
