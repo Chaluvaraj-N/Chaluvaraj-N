@@ -24,25 +24,9 @@
 
 ---
 
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 # 🐍 Contribution Snake:
 
 ![Snake animation](https://github.com/Chaluvaraj-N/Chaluvaraj-N/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Chaluvaraj-N\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4)
 
 ---
 
